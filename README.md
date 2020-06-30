@@ -1,3 +1,3 @@
 # hello-world
 
-Hi,I want to start a Iot ralated project.
+Hi,I want to start a IoT ralated project.
